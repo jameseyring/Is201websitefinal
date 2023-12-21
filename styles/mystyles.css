@@ -1,0 +1,53 @@
+.myfont{
+    font-family:'Courier New', Courier, monospace;
+    
+}
+.mysubfont{
+    font-family:Arial, Helvetica, sans-serif;
+    color:antiquewhite !important;
+}
+.slant{
+    font-style: italic;
+}
+.myfontcolor{
+color:#9AB7C4 !important;
+}
+.mybgcolor{
+ background-color:   #5E627B !important;
+}
+.altbg{
+   background-color: #395A57; 
+   
+}
+.collegefont{
+    display: block;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: normal;
+}
+.collegefont .collegefont-skill{ 
+    font-size: 12pt;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.abtfont{
+    display: block; 
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+
+}
+.myscratch{
+    color:ghostwhite;
+    font-size:20pt;
+    font-family:'Helvetica','Times New Roman',;
+}
+.lighttext{
+    color:ghostwhite !important;
+}
+.buttoncolor{
+    background-color: lightskyblue;
+    border-color:lightskyblue;
+}
+.altbgcolor{
+    background-color: lightgrey;
+}

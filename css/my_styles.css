@@ -1,0 +1,11 @@
+.myfont{
+    font-family:'Courier New', Courier, monospace;
+    
+}
+.mysubfont{
+    font-family:Arial, Helvetica, sans-serif;
+    color:antiquewhite !important;
+}
+.slant{
+    font-style: italic;
+}
